@@ -5,6 +5,7 @@
   In collaboration with my teammates, Sameer Kandathinkarayil Subiar, Sushanth Ankush Mane, Irfan Ali Valiya peediyakkal, and under the guidance of Prof. Dr. Tim Weber, we developed a Python-based application that leverages the YOLOv8 model for highly accurate defect detection in casting parts.
 
 Key insights:
+ 
   •	Benchmarking played a crucial role in validating the performance of our model. We systematically compared the YOLOv8 model against a well-documented CNN-based model, benchmarking key metrics such as precision, recall, F1-score, and overall accuracy.
   
   •	In addition to benchmarking, we tackled model drift by implementing data preprocessing techniques (adding Gaussian noise) to ensure model reliability over time. This ensures the model performs well even when image input quality fluctuates.
