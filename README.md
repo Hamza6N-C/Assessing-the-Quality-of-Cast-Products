@@ -21,14 +21,23 @@ Key insights:
   Our project demonstrates that automated defect detection using YOLOv8 can significantly improve quality control in industries like automotive, aerospace, and construction, where precision is critical. The user-friendly interface, built with Tkinter, enables easy image 
 
 📄Project Highlights:
+
   •	Python-based detection using YOLOv8
+  
   •	Benchmarking to validate performance
+  
   •	Advanced preprocessing to handle model drift
+  
   •	User-friendly interface, built with Tkinter
+  
 📄 Key metrics:
+
   •	99.80% F1-score
+  
   •	100% recall
+  
   •	99.86% precision
+  
   •	99.61% accuracy
 
 This project was conducted at the Applied AI for Digital Production Management division of Deggendorf Institute of Technology Campus Cham, and we’re excited about its potential to transform industrial quality control processes.
