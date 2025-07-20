@@ -43,3 +43,10 @@ Key insights:
 This project was conducted at the Applied AI for Digital Production Management division of Deggendorf Institute of Technology Campus Cham, and we’re excited about its potential to transform industrial quality control processes.
 
 Check out our work and code to explore how this solution can be applied to real-world quality control processes! 🌍
+
+
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/5e15a603-bde8-4c6c-9d7c-e56e6e407c70" />
+
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/732b9418-ce21-40fb-abbb-45a5747c9773" />
+
+
